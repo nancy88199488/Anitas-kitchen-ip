@@ -7,10 +7,10 @@
     background-position: center;
     height: 840px;
     width: 100%;
-    background-image: url("./images.anita/landing\ \(1\).jpg";)
+    background-image: url("./images.anita/landing\ \(1\).jpg");
 }_
 #text1{
-    padding-left: ;
+    padding-left: 200px;
     background-image: url("images.anita/breakfast.jpg");
     height: 200px;
     width: 200px;
@@ -25,7 +25,7 @@
     width: auto;
 }
 #text2{
-    padding-left: ;
+    padding-left: 200px ;
     height: 0%;
     width: 100%;
     background-color: #F15A29;
